@@ -1,0 +1,38 @@
+.sam h1 {
+  text-align: center;
+  color: black;
+  font-size: 40px;
+  padding: 60px;
+  font-family: helvetica;
+}
+
+.sam h2 {
+  text-align: center;
+  color: black;
+  font-size: 40px;
+  font-family: serif;
+}
+
+.sam p {
+  text-align: justify;
+  font-size: 20px;
+  color: grey;
+  max-width: none;
+  padding: 0px 30px;
+}
+
+.sam h3 {
+  color: teal;
+  font-style: italic;
+  font-size: 20px;
+  padding: 0px;
+}
+
+.sam {
+  text-align: center;
+}
+
+img {
+  border-radius: 1000px;
+  height: 40vh;
+}

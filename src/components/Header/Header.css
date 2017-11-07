@@ -1,0 +1,46 @@
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  background-color: rgba(20,135,136,0.2);
+  width: 100%;
+  text-align: center;
+  padding: 100px 30px;
+  color: white;
+  font-size: 250px;
+  margin-top: -350px;
+}
+
+.header h1 {
+  padding-top: 50px;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 800;
+}
+
+.sub-sep p {
+  font-size: 20px;
+  font-size: 24px;
+  font-weight: 300;
+  line-height: 1.1;
+  display: block;
+  margin: 10px 0 0;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.sub-sep .logo {
+  font-size: 40px;
+}
+
+.header-background {
+  background-image: url("/images/background.jpeg");
+  background-size: cover;
+  height: 300px;
+  width: 100%;
+  background-position: center;
+}

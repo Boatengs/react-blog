@@ -1,0 +1,19 @@
+.footer i {
+  display: inline;
+  color: white;
+
+}
+.footer a{
+  color: white;
+
+}
+.footer{
+  background-color: teal;
+  height: 250px;
+  width: 100%;
+}
+.copyright {
+  display: block;
+  margin: auto;
+  text-align: center;
+}
